@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869337889389",
+    "project_id": "pushnoti-ad77b",
+    "storage_bucket": "pushnoti-ad77b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869337889389:android:d6d2f9de603b233eba5d64",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8F8O25dE0swhdn6fJD1rrz5zi20pw7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
